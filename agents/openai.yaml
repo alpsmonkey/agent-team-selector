@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Team Selector"
+  short_description: "Recommend the best subagent team for a project request."
+  default_prompt: "Analyze this project request and recommend the smallest effective subagent team, with roles, execution order, and a ready-to-use coordination prompt."
